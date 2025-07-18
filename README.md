@@ -1,4 +1,4 @@
-Bare metal implementation  of an ADC driver ,in continuous mode conversion withm PLL clock configuration ,for STM32 development board 
+Bare metal implementation  of an ADC driver ,in continuous mode conversion with PLL clock configuration ,for STM32 development board 
 ## Features
 - ADC initialization with tested ADC resolution (6-bits, 8-bits) and peripheral clock = 50MHz.
 - PLL clock configuration for ADC
